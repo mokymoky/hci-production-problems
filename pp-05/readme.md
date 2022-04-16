@@ -23,9 +23,9 @@ for your first (and second) round of usability testing.
 
 1. Users location should always be identifiable no matter where they are
 2. Clear contrast between background and text
-3. Mobile website is easily accessible
-4. Homepage can be grasped in 5 seconds
-5. Distinguishable color palette and legible font
+3. Buttons can be easily distinguishable through color 
+4. Pages function can be grasped in 5 seconds
+5. Keep user actions to a minimum
 6. Professional looking website that makes the users trust the website
 7. Minimized user input; Don't ask for any unnecessary information, make it as easy as possible for the users
 8. Web pages answer the questions that users may have about them
