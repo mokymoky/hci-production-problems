@@ -16,18 +16,18 @@ for your first (and second) round of usability testing.
 
 * URLs for the usability checklists you’ve found:
 
-1.
-2.
+1.https://en.ryte.com/magazine/usability-checklist-for-successful-websites
+2.https://web.wsu.edu/2015/07/15/website-usability-checklist/
 
 * Your team’s condensed ten-item, must-have usability checklist:
 
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
+1. Users location should always be identifiable no matter where they are
+2. Clear contrast between background and text
+3. Mobile website is easily accessible
+4. Homepage can be grasped in 5 seconds
+5. Distinguishable color palette and legible font
+6. Professional looking website that makes the users trust the website
+7. Minimized user input; Don't ask for any unnecessary information, make it as easy as possible for the users
+8. Web pages answer the questions that users may have about them
+9. Keep users aware of details, don't make users guess content
+10. Make forms as plain and easy for the users as possible
